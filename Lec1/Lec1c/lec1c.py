@@ -7,11 +7,3 @@ print (area)
 radius = 4
 
 print (area)
-
-area = pi * (radius**2)
-
-print (area)
-
-#Third commit try
-
-print ("Changing Code third time")
