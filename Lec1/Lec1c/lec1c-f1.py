@@ -10,4 +10,4 @@ print("The new value of area becomes ", area1)
 diff = area1 - area
 print("The difference of value is ", diff)
 uncer = (diff / area1)*100
-print("Percentage uncertainity is ", uncer, "which is negligible")
+print("Percentage uncertainity is ", uncer, "which is almost negligible")
